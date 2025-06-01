@@ -83,7 +83,7 @@ Example:
 ## 📱 Responsiveness
 
 - Mobile-first layout
-- All pages optimized for devices like Samsung Galaxy A12, iPhone, and tablets
+- All pages optimized for All devices and tablets
 - Sidebar filters auto-scroll on page scroll
 - Mobile navbar with hamburger menu + profile dropdown
 
