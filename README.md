@@ -12,10 +12,9 @@ It offers real-time reservation, driver options, flexible rental plans, and a de
 - **Frontend:** React.js (Functional Components + Hooks)  
 - **Styling:** Tailwind CSS + Bootstrap  
 - **Icons:** Font Awesome  
-- **Routing:** React Router DOM  
-- **State:** LocalStorage / useState  
-- **Backend (Planned):** Node.js, Express.js  
-- **Database (Planned):** MongoDB
+- **Routing:** React Router DOM    
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB
 
 ---
 
@@ -29,14 +28,12 @@ It offers real-time reservation, driver options, flexible rental plans, and a de
 - ✅ Dynamic Pricing Logic
 - ✅ Login / Signup / Forget Password
 - ✅ User Dashboard with Booking History
-- ✅ Modern Calendar & Input Forms
 - ✅ Clean UI with Placeholder Guidance
 
 ### 🛠 Admin Panel (Separate Project):
 - ✅ Admin Login / Signup / Forget Password
 - ✅ Dashboard: Users, Vehicles, Bookings
 - ✅ Analytics Overview
-- ✅ Add/Edit Vehicle Listings
 - ✅ Logout Functionality
 
 ---
